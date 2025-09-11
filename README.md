@@ -1,7 +1,7 @@
 # Filip Clefos
 <a href="www.linkedin.com/in/filip-clefos-625227329"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## University Projects:
+## Projects:
 
 | Description                                        | Project         |
 |-----------------------------------------------|----------------------------|
