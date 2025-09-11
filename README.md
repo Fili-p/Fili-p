@@ -5,7 +5,7 @@
 
 | Description                                        | Project         |
 |-----------------------------------------------|----------------------------|
-| Designed and configured a network in Cisco Packet Tracer, implementing RIP routing, NAT, DHCP, and DNS | <a href="[https://github.com/Fili-p/Cisco-Packet-Tracer-Small-Network-Design-and-Configuration?tab=readme-ov-file]">Cisco Packet Tracer – Small Network Design and Configuration</a>|
+| Designed and configured a network in Cisco Packet Tracer, implementing RIP routing, NAT, DHCP, and DNS | <a href="https://github.com/Fili-p/Cisco-Packet-Tracer-Small-Network-Design-and-Configuration?tab=readme-ov-file">Cisco Packet Tracer – Small Network Design and Configuration</a>|
 
 
 
